@@ -21,5 +21,5 @@ This code provides various image processing techniques for X-ray images using Py
 ### Feature Extraction
 - Extracting features from images using masking techniques.
 
-Contributing
-Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
+### Contributing
+** Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.**
